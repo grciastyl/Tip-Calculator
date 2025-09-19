@@ -1,0 +1,1 @@
+This project was created using HTML, Javascript and CSS files. To use the tip calculator, simply input the bill amount. Then insert the desired tip percentage. When you hit the calculate button, the tip amount will be displayed.
